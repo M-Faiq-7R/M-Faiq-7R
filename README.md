@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Faiq-7R
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C++ , Python, Php .
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...idk
 - 📫 How to reach me := mfaiq.cs@gmail.com
 - 😄 Pronouns: he/him

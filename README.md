@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @M-Faiq-7R
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...idk
-- 📫 How to reach me := mfaiq.cs@gmail.com
-- 😄 Pronouns: he/him
-.
+# Hi there 👋, I'm Muhammad Faiq
 
-<!---
-M-Faiq-7R/M-Faiq-7R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring Software Engineer from Pakistan with a passion for solving problems through code. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
+
+## 🚀 Currently Learning
+
+* C++
+* Python
+* Unity Game Development
+* Data Structures & Algorithms
+* Git & GitHub
+
+## 💻 Tech Stack
+
+* **Languages:** Python, C++, C#
+* **Tools:** Git, GitHub, VS Code, Visual Studio, Unity
+* **Libraries:** OpenCV, Matplotlib, Pandas
+
+## 📂 Featured Projects
+
+* 📊 **Basic Log File Reader** – Analyze and visualize log files with Python.
+* 🔐 **Password Analyzer** – Evaluate password strength and generate security recommendations.
+* 🎮 **Unity Game** – A 3D game built with Unity and C#.
+* 📸 **OpenCV Projects** – Image processing experiments including page detection and face filters.
+
+## 🎯 Goals for 2026
+
+* Build more open-source projects.
+* Strengthen my C++ and DSA skills.
+* Learn cybersecurity fundamentals.
+* Contribute to open-source repositories.
+
+## 📫 Contact
+
+📧 **Email:** [mfaiq.cs@gmail.com](mailto:mfaiq.cs@gmail.com)
+
+---
+
+*"Code, Learn, Improve, Repeat."* 🚀

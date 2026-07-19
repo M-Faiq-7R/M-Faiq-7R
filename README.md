@@ -12,16 +12,16 @@ I'm an aspiring Software Engineer from Pakistan with a passion for solving probl
 
 ## 💻 Tech Stack
 
-* **Languages:** Python, C++, C#
+* **Languages:** Python, C++
 * **Tools:** Git, GitHub, VS Code, Visual Studio, Unity
 * **Libraries:** OpenCV, Matplotlib, Pandas
 
 ## 📂 Featured Projects
 
-* 📊 **Basic Log File Reader** – Analyze and visualize log files with Python.
-* 🔐 **Password Analyzer** – Evaluate password strength and generate security recommendations.
-* 🎮 **Unity Game** – A 3D game built with Unity and C#.
-* 📸 **OpenCV Projects** – Image processing experiments including page detection and face filters.
+*  **Basic Log File Reader** – Analyze and visualize log files with Python.
+*  **Password Analyzer** – Evaluate password strength and generate security recommendations.
+*  **Unity Game** – A 3D game built with Unity and C#.
+*  **OpenCV Projects** – Image processing experiments including page detection and face filters.
 
 ## 🎯 Goals for 2026
 

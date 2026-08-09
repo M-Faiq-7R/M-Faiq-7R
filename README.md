@@ -33,6 +33,7 @@ I'm an aspiring Software Engineer from Pakistan with a passion for solving probl
 ## 📫 Contact
 
 📧 **Email:** [mfaiq.cs@gmail.com](mailto:mfaiq.cs@gmail.com)
+    **LinkedIn:** [mfaiq-7r](https://www.linkedin.com/in/mfaiq-7r/)
 
 ---
 

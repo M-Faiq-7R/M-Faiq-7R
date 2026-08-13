@@ -17,7 +17,7 @@ I'm an aspiring Software Engineer from Pakistan with a passion for solving probl
 * **Libraries:** OpenCV, Matplotlib, Pandas
 
 ## 📂 Featured Projects
-
+* **MedVault** - Security testing application built with NodeJs.
 *  **Basic Log File Reader** – Analyze and visualize log files with Python.
 *  **Password Analyzer** – Evaluate password strength and generate security recommendations.
 *  **Unity Game** – A 3D game built with Unity and C#.

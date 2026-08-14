@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Muhammad Faiq**
 
-I'm an aspiring Software Engineer from Pakistan with a passion for solving problems through code. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
+I'm an aspiring Cyber Security Engineer from Pakistan with a passion for solving problems through code. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
 
 ## 🚀 Currently Learning
 

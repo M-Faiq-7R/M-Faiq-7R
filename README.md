@@ -9,6 +9,7 @@ I'm an aspiring Software Engineer from Pakistan with a passion for solving probl
 * Unity Game Development
 * Data Structures & Algorithms
 * Git & GitHub
+* Linux
 
 ## 💻 Tech Stack
 

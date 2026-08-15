@@ -1,5 +1,5 @@
 # Hi there 👋, I'm **Muhammad Faiq**
-
+Computer Science Student @ FAST | Cybersecurity & Networking Enthusiast | Python
 I'm an aspiring Cyber Security Engineer from Pakistan with a passion for solving problems through code. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
 
 ## 🚀 Currently Learning

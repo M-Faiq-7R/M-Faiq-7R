@@ -9,16 +9,16 @@ I'm an aspiring Cyber Security Engineer from Pakistan with a passion for solving
 * Unity Game Development
 * Data Structures & Algorithms
 * Git & GitHub
-* Linux
+* Linux 
 
 ## 💻 Tech Stack
 
 * **Languages:** Python, C++
 * **Tools:** Git, GitHub, VS Code, Visual Studio, Unity
-* **Libraries:** OpenCV, Matplotlib, Pandas
+* **Libraries:** OpenCV, Matplotlib
 
 ## 📂 Featured Projects
-* **MedVault** - Security testing application built with NodeJs.
+*  **MedVault** - Security testing application built with NodeJs.
 *  **Basic Log File Reader** – Analyze and visualize log files with Python.
 *  **Password Analyzer** – Evaluate password strength and generate security recommendations.
 *  **Unity Game** – A 3D game built with Unity and C#.

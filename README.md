@@ -30,6 +30,7 @@ I'm an aspiring Cyber Security Engineer from Pakistan with a passion for solving
 * Build more open-source projects.
 * Strengthen my C++ and DSA skills.
 * Learn cybersecurity fundamentals.
+* Learn Networking.
 * Contribute to open-source repositories.
 
 ## 📫 Contact

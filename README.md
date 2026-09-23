@@ -78,6 +78,6 @@ Building a strong foundation in **computer science, networking, systems programm
 
 ## 📫 Connect With Me
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mfaiq-7r/)
 * 🐙 [GitHub](https://github.com/M-Faiq-7R)
-* 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+* 🌐 [Portfolio](https://m-faiq-7r.github.io/)

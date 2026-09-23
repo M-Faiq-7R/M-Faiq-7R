@@ -1,43 +1,83 @@
-# Hi there 👋, I'm **Muhammad Faiq**
-**Computer Science Student @ FAST | Cybersecurity & Networking Enthusiast | Python**
+# 👋 Hey, I'm M-Faiq
 
-I'm an aspiring Cyber Security Engineer from Pakistan with a passion for solving problems through code. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
+### Computer Science Student @ FAST-NUCES Islamabad
 
-## 🚀 Currently Learning
+I'm a Computer Science student interested in **computer networking, cybersecurity, systems programming, and software development**.
 
-* C++
-* Python
-* Unity Game Development
-* Data Structures & Algorithms
-* Git & GitHub
-* Linux 
-
-## 💻 Tech Stack
-
-* **Languages:** Python, C++
-* **Tools:** Git, GitHub, VS Code, Visual Studio, Unity
-* **Libraries:** OpenCV, Matplotlib
-
-## 📂 Featured Projects
-*  **MedVault** - Security testing application built with NodeJs.
-*  **Basic Log File Reader** – Analyze and visualize log files with Python.
-*  **Password Analyzer** – Evaluate password strength and generate security recommendations.
-*  **Unity Game** – A 3D game built with Unity and C#.
-*  **OpenCV Projects** – Image processing experiments including page detection and face filters.
-
-## 🎯 Goals for 2026
-
-* Build more open-source projects.
-* Strengthen my C++ and DSA skills.
-* Learn cybersecurity fundamentals.
-* Learn Networking.
-* Contribute to open-source repositories.
-
-## 📫 Contact
-
-📧 **Email:** [mfaiq.cs@gmail.com](mailto:mfaiq.cs@gmail.com)
-    **LinkedIn:** [mfaiq-7r](https://www.linkedin.com/in/mfaiq-7r/)
+I prefer learning by building projects from scratch and understanding the concepts behind the tools I use.
 
 ---
 
-*"Code, Learn, Improve, Repeat."* 
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+`C++` `Python` `JavaScript`
+
+**Networking & Systems**
+
+`TCP/IP` `POSIX Sockets` `Linux` `Multithreading` `Git`
+
+**Libraries & Tools**
+
+`OpenCV` `Pygame` `Unity` `Cisco Packet Tracer`
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ NetForge
+
+A C++ networking project built on Linux to explore low-level network programming.
+
+* TCP client-server communication
+* Multiple concurrent clients
+* C++ multithreading
+* Mutex-based synchronization
+* Client connection management
+* POSIX socket programming
+
+🔗 [View Repository](https://github.com/M-Faiq-7R/net-forge)
+
+### 🏥 MedVault
+
+A full-stack learning project created to explore concepts related to **web application architecture and security**.
+
+The project helped me study concepts such as:
+
+* Authentication
+* Password hashing
+* Sessions
+* Protected routes
+* API architecture
+* MVC concepts
+* Basic web application security
+
+> Built with AI assistance as a learning project. I use it primarily to explore and understand application-security concepts rather than as evidence of advanced backend development experience.
+
+🔗 [View Repository](https://github.com/M-Faiq-7R/MedVault)
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* C++ & Systems Programming
+* Computer Networking
+* Linux
+* Cybersecurity
+* Python
+
+---
+
+## 🎯 What I'm Working Toward
+
+Building a strong foundation in **computer science, networking, systems programming, and cybersecurity** through hands-on projects and continuous learning.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 🐙 [GitHub](https://github.com/M-Faiq-7R)
+* 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
